@@ -39,8 +39,9 @@ Built with **C# and WinUI 3**, BeamMPTools uses the native Windows Fluent Design
   - Follows Windows light and dark mode settings.
 
 ## Screenshots
+<img width="1426" height="752" alt="app" src="https://github.com/user-attachments/assets/5c477304-cac7-4425-87df-37650018f56f" />
 
-Screenshots of BeamMPTools will be added here.
+
 
 <!-- Add application screenshots below.
 Example:
