@@ -62,7 +62,7 @@ BeamMPTools 使用 **C# 和 WinUI 3** 构建，采用原生 Windows Fluent Desig
 
 ### 2. 安装或更新 BeamMP
 
-选择 **Install / Update BeamMP**。
+选择 **安装 / 更新 BeamMP**。
 
 系统将提示您选择安装位置：
 
@@ -73,13 +73,13 @@ BeamMPTools 使用 **C# 和 WinUI 3** 构建，采用原生 Windows Fluent Desig
 
 ### 3. 启动 BeamNG.drive
 
-选择 **Launch BeamNG**，通过 Steam 启动游戏。
+选择 **启动BeamNG**，通过 Steam 启动游戏。
 
 Steam 集成可让您的 BeamNG.drive 游戏时长被正常跟踪。
 
 ### 4. 启动 BeamMP
 
-选择 **Launch BeamMP**，初始化 BeamMP Launcher 并通过 Steam 启动 BeamNG.drive。
+选择 **启动 BeamMP**，初始化 BeamMP Launcher 并通过 Steam 启动 BeamNG.drive。
 
 这允许 Steam 在您使用 BeamMP 时跟踪您的 BeamNG.drive 游戏时长。
 
