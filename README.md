@@ -1,5 +1,5 @@
 # BeamMPTools
-CN ver :READMEZHCN.md
+CN ver :[READMEZHCN.md](https://github.com/Ace06-suzhou/BeamMPToolsWinUI/blob/master/READMEZHCN.md)
 
 **A lightweight Windows toolkit for BeamNG.drive and BeamMP.**
 
