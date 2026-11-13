@@ -39,13 +39,9 @@ BeamMPTools 使用 **C# 和 WinUI 3** 构建，采用原生 Windows Fluent Desig
 
 ## 截图
 
-BeamMPTools 的截图将在此处添加。
+<img width="1426" height="752" alt="app" src="https://github.com/user-attachments/assets/39dc494f-06d0-4576-aae5-fc9b9157b949" />
 
-<!-- 在下方添加应用程序截图。
-示例：
-![主窗口](docs/images/main-window.png)
-![安装对话框](docs/images/installation-dialog.png)
--->
+
 
 ## 要求
 
