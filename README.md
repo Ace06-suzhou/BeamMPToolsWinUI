@@ -43,11 +43,7 @@ Built with **C# and WinUI 3**, BeamMPTools uses the native Windows Fluent Design
 
 
 
-<!-- Add application screenshots below.
-Example:
-![Main Window](docs/images/main-window.png)
-![Installation Dialog](docs/images/installation-dialog.png)
--->
+
 
 ## Requirements
 
