@@ -1,5 +1,5 @@
-https://github.com/Ace06-suzhou/BeamMPToolsWinUI/blob/master/src/LOGO/logo.png 
 # BeamMPTools
+<img width="512" height="512" alt="app" src="https://github.com/Ace06-suzhou/BeamMPToolsWinUI/blob/master/src/LOGO/logo.png" />
 CN ver :[READMEZHCN.md](https://github.com/Ace06-suzhou/BeamMPToolsWinUI/blob/master/READMEZHCN.md)
 
 **A lightweight Windows toolkit for BeamNG.drive and BeamMP.**
