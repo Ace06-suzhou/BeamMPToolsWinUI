@@ -1,5 +1,9 @@
 using Microsoft.UI.Xaml;
-
+using Microsoft.UI;
+using Microsoft.UI.Windowing;
+using System;
+using System.IO;
+using WinRT.Interop;
 namespace BeamMPTools.App;
 
 public partial class App : Application
@@ -19,6 +23,28 @@ public partial class App : Application
 
         MainWindowInstance = _mainWindow;
 
+        SetWindowIcon(_mainWindow);
+
         _mainWindow.Activate();
+    }
+    private static void SetWindowIcon(Window window)
+    {
+        string iconPath = Path.Combine(
+            AppContext.BaseDirectory,
+            "Assets",
+            "logo.ico");
+
+        if (!File.Exists(iconPath))
+            return;
+
+        IntPtr hwnd = WindowNative.GetWindowHandle(window);
+
+        WindowId windowId =
+            Win32Interop.GetWindowIdFromWindow(hwnd);
+
+        AppWindow appWindow =
+            AppWindow.GetFromWindowId(windowId);
+
+        appWindow.SetIcon(iconPath);
     }
 }
