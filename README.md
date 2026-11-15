@@ -1,3 +1,4 @@
+https://github.com/Ace06-suzhou/BeamMPToolsWinUI/blob/master/src/LOGO/logo.png 
 # BeamMPTools
 CN ver :[READMEZHCN.md](https://github.com/Ace06-suzhou/BeamMPToolsWinUI/blob/master/READMEZHCN.md)
 
